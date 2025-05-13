@@ -59,4 +59,14 @@ All models and techniques were implemented using the **[scikit-learn](https://sc
 Install required packages using:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt 
+```
+
+## 🚀 How to Use
+Clone this repository.
+
+Open the notebook `classification_analysis.ipynb.`
+
+Run all cells to train, evaluate, and compare classifiers.
+
+🧠 Powered by scikit-learn · Built with ❤️ for machine learning exploration.
